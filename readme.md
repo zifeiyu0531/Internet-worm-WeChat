@@ -34,13 +34,13 @@ pip install selenium
 # Usage
 
 # Pack
-可使用[PyInstaller](http://www.pyinstaller.org/)将该项目打包成exe格式。<br>
+可使用[PyInstaller](http://www.pyinstaller.org/)将该项目打包成exe格式
+
 `PyInstaller`安装：
 ```
 pip install pyinstaller
 ```
 使用：
 ```
-pyinstaller -F -w GUI.py
+pyinstaller -F -w mainpage.py
 ```
-在`GUI.py`相同目录下会新增`dist`文件夹，内部放有`GUI.exe`文件
