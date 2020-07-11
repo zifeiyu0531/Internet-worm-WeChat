@@ -32,7 +32,7 @@ Selenium安装：
 pip install selenium
 ```
 # Usage
-
+运行mainpage.py文件
 # Pack
 可使用[PyInstaller](http://www.pyinstaller.org/)将该项目打包成exe格式
 
